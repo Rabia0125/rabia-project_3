@@ -5,7 +5,7 @@ const AboutPage = () => {
   return (
     <div>
         <center>
-        <Link href="/">Home</Link>
+        <Link href="/">Home Page</Link>
         <h1 className='bg-green-300 text-4xl h-screen'>Welcome to the About page</h1>
         </center>
     </div>

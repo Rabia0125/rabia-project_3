@@ -11,9 +11,9 @@ const Home = () => {
       {/* <button onClick={()=>route.push("/about")}>About</button>
       <button onClick={()=>route.push("/contact")}>Contact</button>
       <button onClick={()=>route.push("/footer")}>Footer</button> */}
-      <Link className='text-2xl hover:text-white' href="/about">About</Link>
-      <Link className='text-2xl hover:text-white' href="/contact">Contact</Link>
-      <Link className='text-2xl hover:text-white' href="/footer">Footer</Link>
+      <Link className='text-2xl hover:text-white' href="/about">About Page</Link>
+      <Link className='text-2xl hover:text-white' href="/contact">Contact Page</Link>
+      <Link className='text-2xl hover:text-white' href="/footer">Footer Page</Link>
     </div>
   )
 }
